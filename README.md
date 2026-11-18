@@ -11,7 +11,7 @@ The zips are byte-identical to the upstream release assets.
 
 Download URLs keep the upstream shape, with only the owner changed:
 
-    https://github.com/MinLL/onnxruntime/releases/download/v1.32.0/onnxruntime-win-x64-1.32.0.zip
+    https://github.com/FatelessAI/onnxruntime/releases/download/v1.32.0/onnxruntime-win-x64-1.32.0.zip
 
 ONNX Runtime is Copyright (c) Microsoft Corporation and licensed under the MIT License; see
 [LICENSE](LICENSE) and [ThirdPartyNotices.txt](ThirdPartyNotices.txt).
